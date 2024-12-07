@@ -32,7 +32,7 @@
         "name":"neko",
         "banner":"neko",
         "title":"Masters <<$onlineusers>> |  Running <<$allgoing>> | Neko Hub | User <<$username>> | Expiry <<$expiry>> day(s)s left",
-        "prompt":"[<theme><<$username>></>/<theme>Neko</>/<theme>Hub</>]> ", 
+        "prompt":"[<theme><<$username>></>/<theme>ZammSlyy</>/<theme>Hub</>]> ", 
         "description":"The best of the best",
         "prompt gradient":[
             {
